@@ -1,0 +1,6 @@
+wfdb
+neurokit2
+torch 
+pandas
+matplotlib
+scikit-learn graphviz
